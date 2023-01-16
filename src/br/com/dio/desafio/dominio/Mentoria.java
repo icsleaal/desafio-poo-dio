@@ -10,22 +10,6 @@ public class Mentoria {
     public Mentoria() {
     }
 
-    public String getTitulo() {
-        return titulo;
-    }
-
-    public void setTitulo() {
-        this.titulo = titulo;
-    }
-
-    public String getDescricao() {
-        return descricao;
-    }
-
-    public void setDescricao(String descricao) {
-        this.descricao = descricao;
-    }
-
     public LocalDate getData() {
         return data;
     }
